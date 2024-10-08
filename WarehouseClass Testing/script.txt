@@ -1,1 +1,16 @@
 
+Script started on 2024-10-08 02:12:26+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="161" LINES="17"]
+[0;32m@Roshanthapaliya12 [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-Roshanthapaliya12/WarehouseClass Testing [0;36m([1;31mmain[0;36m) [0m$ javac *.java
+Note: Client.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+[0;32m@Roshanthapaliya12 [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-Roshanthapaliya12/WarehouseClass Testing [0;36m([1;31mmain[0;36m) [0m$ java WarehouseTest
+Clients:
+	Client's name: Alice Smith, ID: C1, Address: 123 Main St, Phone Number: 555-1234
+	Client's name: Bob Jones, ID: C2, Address: 456 Elm St, Phone Number: 555-5678
+Products:
+Product name: Laptop, ID: P1, Price: 999.99, Quantity: 10
+Product name: Smartphone, ID: P2, Price: 699.99, Quantity: 20
+[0;32m@Roshanthapaliya12 [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-Roshanthapaliya12/WarehouseClass Testing [0;36m([1;31mmain[0;36m) [0m$ exit
+exit
+
+Script done on 2024-10-08 02:12:56+00:00 [COMMAND_EXIT_CODE="0"]
